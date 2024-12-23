@@ -1,8 +1,8 @@
 # zoom-demo-rs
 
-an Introduction to Zoom OAuth with a Simple Demo
+An Introduction to Zoom OAuth with a Simple Demo
 
-A rust axum version of https://github.com/zoom/zoom-oauth-sample-app
+- A rust axum version of https://github.com/zoom/zoom-oauth-sample-app
 
 ## Create an OAuth App on the Zoom App Marketplace
 
